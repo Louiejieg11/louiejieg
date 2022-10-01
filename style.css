@@ -1,0 +1,46 @@
+body{
+    background-color: #2A9D8F;
+    color: white;
+}
+h1 { 
+    font-size: 70px;
+    letter-spacing: 8px;
+    margin-bottom: 60px;
+    text-align: center;
+    text-shadow: 8px 8px 11px black;
+    color: white;
+}
+.container {
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+td, th {
+    text-shadow: 3px 3px 5px black;
+    padding: 20px;
+    
+}
+table {
+    border: 10px 10px 15px solid white;
+    border-radius: 5px;
+    padding: 10px;
+    box-sizing: 50px
+}
+td{
+    background-color: #219EBC;
+    box-shadow: 9px 9px 13px black;
+}
+th{
+    font-size: 18px;
+}
+#table{
+    
+    box-shadow: 20px 20px 25px black;
+}
+#month{
+    box-shadow: 11px 11px 15px black;
+    background-color: #023047;
+    letter-spacing: 8px;
+    font-size: 25px;
+}
