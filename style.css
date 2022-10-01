@@ -44,3 +44,13 @@ th{
     letter-spacing: 8px;
     font-size: 25px;
 }
+
+#calendar-section {
+    width: 800px;
+    margin: auto;
+}
+
+#calendar-section #header{ 
+    font-size:7em;
+    font-weight: bold;
+}
